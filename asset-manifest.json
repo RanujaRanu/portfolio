@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9decd2f9.css",
+    "main.js": "/static/js/main.bdec68fc.js",
+    "static/media/react1.png": "/static/media/react1.b22800a751ec11f857a9.png",
+    "static/media/design.png": "/static/media/design.aedc20bf969d10b5aedc.png",
+    "static/media/about.png": "/static/media/about.506a760e5b17564e86ac.png",
+    "static/media/eventease.jpg": "/static/media/eventease.f890a0bd86f8ecc19add.jpg",
+    "static/media/resume.jpg": "/static/media/resume.4bf87c1781a2e73b7e52.jpg",
+    "static/media/conference day managent system.jpg": "/static/media/conference day managent system.7874c1fc5aab964fd24c.jpg",
+    "index.html": "/index.html",
+    "main.9decd2f9.css.map": "/static/css/main.9decd2f9.css.map",
+    "main.bdec68fc.js.map": "/static/js/main.bdec68fc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9decd2f9.css",
+    "static/js/main.bdec68fc.js"
+  ]
+}
